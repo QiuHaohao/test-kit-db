@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/test-kit-db/static/css/main.dcca17ee.css",
+    "main.js": "/test-kit-db/static/js/main.19f766df.js",
+    "static/js/787.811960c7.chunk.js": "/test-kit-db/static/js/787.811960c7.chunk.js",
+    "index.html": "/test-kit-db/index.html",
+    "main.dcca17ee.css.map": "/test-kit-db/static/css/main.dcca17ee.css.map",
+    "main.19f766df.js.map": "/test-kit-db/static/js/main.19f766df.js.map",
+    "787.811960c7.chunk.js.map": "/test-kit-db/static/js/787.811960c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcca17ee.css",
+    "static/js/main.19f766df.js"
+  ]
+}
