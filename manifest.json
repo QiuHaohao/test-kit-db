@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "快速測試包認證搜尋器",
+  "name": "快速測試包認證搜尋器",
   "icons": [
     {
       "src": "favicon.ico",
